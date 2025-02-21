@@ -1,0 +1,16 @@
+{
+    "name": "corporate-action-validator",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "pdfjs-dist": "^3.4.120"
+    }
+  }
+  
